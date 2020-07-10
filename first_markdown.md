@@ -4,6 +4,8 @@
 
 My first practice with Markdown will be to put all my notes from Lewagon career week.
 
+[Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
+
 Victor is *cool*.  I said Victor is __cool__
 __Great!!!__
 
