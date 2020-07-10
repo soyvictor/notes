@@ -1,5 +1,7 @@
 # Career Week Notes
 
+---
+
 My first practice with Markdown will be to put all my notes from Lewagon career week.
 
 Victor is *cool*.  I said Victor is __cool__
@@ -12,6 +14,26 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque cumque id aperia
 [My Github account](https://www.google.com "This is a test")
 
 ![This is a photo](https://avatars1.githubusercontent.com/u/40589918?s=60&v=4 "This is a tooltip")
+
+> I think it is possible for ordinary people to choose to be extraordinary.  Work like hell.  I mean you just have to put in 80-100 hour weeks every week. - **E.M.**
+>
+> Another line here.
+
+Hello Victor
+> Another quote
+
+    let x = 1
+    let y = 3
+    let dog = x + y;
+
+```js
+let x = 1
+let y = 3
+let dog = x + y;
+```
+
+
+hey did you try `var x = 2;`?
 
 ## Lecture 1: CV, Linkedin, and github (with Juan Carlos)
 
@@ -83,6 +105,100 @@ Career playbook: https://kitt.lewagon.com/career/playbook/
 
 [Zoom presentation](https://us02web.zoom.us/rec/share/7txuKbDp6lxLTJWWsGTdVb4HLtz7eaa8gCEZrqZfnx1JRRy6bryWtdjp21vZZcuD?startTime=1594133488000)
 
+### Notes
+
+* Make sure have green commits on github at least once or twice a week make a commit.
+* Put embedded contact form in your portfolio.
+* For back end, a simple site similar to medium is good.
+* Try not to use bootstrap, especially if you're going for a front end job.  It's pretty obvious.
+* Custom email domain name
+* Everything one page plus archive of your projects.
+* Include social network
+* Embrace story of your life.
+* One paragraph - explain overview of your project and describe technologies, challenges, show personality in portfolio.
+* Responsive design - mobile and desktop always.  Mobile first.  then desktop.  70% people access mobile.
+* React VUE, JS, Middleman, Vue is top JS framework, Use gatsby react for your portfolio.
+* Check out Wufoo form, zapier.
+* Select your best work.
+* BULMA
+* Go for just a front end frame work, loads faster and doesn't require a rails server.
+
 ## Lecture 3: How to launch your startup (with Benjamin Hernandez)
 
 ## Lecture 4: How to start as a Freelancer (with Anthony)
+
+### Notes
+
+* Checkout for freelance jobs
+    * Angel.co
+    * indiehackers
+
+* Free invoicing software like stripe
+* Make it official looking.
+* get a contract
+* freelance contract template - google
+* product business - can resell.  make sure it's in the contract
+* Be honest about skills
+* Don't lie about experience
+* Binge watch sales and comedy videos to hype yourself before a sales call
+* Contact him: Anthony Castro, anthony@formico.io, AntCas - linkedin
+
+sources:
+
+* Double your freelancing
+* patioll - freelance
+* kalzmeus.com
+* joel on software
+
+
+
+## Lecture 5: How to land your first job as a developer (with Ignacio)
+
+[Ignacio's markdown notes](https://gist.github.com/nachoal/ee11404c004931c39a72dc0276b7bc9e)
+
+hackmd.io
+
+bundle open [gem name]
+bundle list
+bundle open rails
+
+Try to spend an hour a day reading open source code.  It will help a lot more than writing code.
+
+gem list search in google.
+ruby gem list top.
+
+iTerm 2
+gem dl in computer
+read JS code in github
+
+Twitter great for networking.
+
+Always under promise over deliver
+
+indiehackers
+nomadlist.com -- making 24k/month, 38k/year
+kalzumeus - don't call yourself a programmer - read
+Eloquent Ruby book
+The pragmattic programmer (start with this one)
+
+Use exercism - you will get a mentor
+juanitofatas ruby
+eloquent JS is very technical, lots of CS terms.
+project on github - follow on github
+
+watch and doing
+UI.dev
+Tyler McGinnis
+
+wesbos.com
+Udemy
+Ignacio will answer on slack... and can read CV if you want.
+
+
+## Lecture 6: Interview and technical interview (with Juan Carlos)
+
+...Juan Carlos was supposed to send his notes on recommended books... and stuff
+
+## Lecture 7: Frontend roadmap and intro to react (with Daniel Polo)
+
+[Link to Daniel's notion page](https://www.notion.so/Frontend-Roadmap-4c6addcf52484e70a1c30299475e493f)
