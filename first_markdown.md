@@ -204,3 +204,9 @@ Ignacio will answer on slack... and can read CV if you want.
 ## Lecture 7: Frontend roadmap and intro to react (with Daniel Polo)
 
 [Link to Daniel's notion page](https://www.notion.so/Frontend-Roadmap-4c6addcf52484e70a1c30299475e493f)
+
+## Lecture 8: Coding Challenges (with Juan Carlos)
+
+
+
+## Lecture 9: Intro to other coding languages (with )
