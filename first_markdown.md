@@ -127,7 +127,13 @@ Career playbook: https://kitt.lewagon.com/career/playbook/
 
 ## Lecture 3: How to launch your startup (with Benjamin Hernandez)
 
+Validate - if someone is willing to pay you even $100, do the project.  But don't do any work until then.  Don't go to friends/family.  Go to a business.
+
+check out accelerator programs, and something called startup weekend.
+
 ## Lecture 4: How to start as a Freelancer (with Anthony)
+
+[Zoom lecture](https://us02web.zoom.us/rec/share/7JRkKa3Z63tORrPU2BDWeKUEHqbZT6a8h3Ad-KJYzh7siEXOnlsbbF9RcaPhvJMS?startTime=1594220199000)
 
 ### Notes
 
@@ -199,14 +205,138 @@ Ignacio will answer on slack... and can read CV if you want.
 
 ## Lecture 6: Interview and technical interview (with Juan Carlos)
 
-...Juan Carlos was supposed to send his notes on recommended books... and stuff
+Study behavioral questions...look up BAR interview protocol. Background, Action, Results to explain anything during the behavioral part of the interview.  Give numerical answers is best.
+
+Prepare for generic bar questions - 10-20.  Have answers ready.
+
+Technical questions - it's more about your thought process.
+
+How many footballs can fit in a football stadium.  volume of ball, volume of stadium.  They don't expect the exact answer....or something silly like 10% of 375.  Silly math questions, that surprisingly a lot of people get wrong.
+
+Algorithms/ solve problems, like reverse an array without using any built in methods.
+![image of reverse array problem](https://res.cloudinary.com/vc334/image/upload/v1594438942/99110AC9-D7E0-405C-ACB9-39B2AE787942_ssvefr.jpg)
+
+mutable - you don't want to change the original array.  Put it into a new array.
+
+global scope / local scope - they'll ask you to trace output or to write a method/function.
+
+Paper test - sql query -- usually some simple stuff they'll ask you like how would you search in database for something from something....
+
+Design a website from scratch 30 minutes -- demonstrate you can deconstruct a website into its parts...navbar, banner, footer, cards.. divs.
+
+Best way to create a table in HTML??
+
+Research the company.  it's hard to find good coders.  you don't need to get all tests correct, you just need to get 50% to 60% and you'll pass...
+
+normally they automatically disqualify people who don't get 50% or 60% or whatever their threshold is, and from there, they base on other factors like personality.
+
+bootcamps - best one is medium size for graduates.
+
+if want to do a mock interview with Juan Carlos, message him.
+
+
 
 ## Lecture 7: Frontend roadmap and intro to react (with Daniel Polo)
 
 [Link to Daniel's notion page](https://www.notion.so/Frontend-Roadmap-4c6addcf52484e70a1c30299475e493f)
 
+### Notes
+
+read html tagshtml forms<audio><video><picture> tags
+CSS is hugestop using libraries like bootstrap
+Manually achieve bootstrap stuff
+w/css you can achieve stuff without javascript
+focus is for forms
+disabled is for buttons, lower capacity
+:first, :first-child 
+nth-child()
+required is for forms like email and password is required
+active - pressure maintained on button
+Animations in CSS
+CSS is best when obvious you need a grid
+responsive first for mobilemaster media queries
+sass / scss (preprocessors) - nested properties, create functions, variablesCSS you can create variables--var(red)
+in client you need to learn JS...
+ruby runs in server only
+only programming language run in browser is JS
+servers have API, use fetch
+rails frame work preprocesses everything...
+DOM manipulation is with server
+many different events...
+event is like a hook
+
+courses...
+JS has lots of interactions with browser/hardware...etc
+redux store data in client - persist it react to build interface
+framework manages your libraries, handles routing, and other stuff...
+Vue you can launch a app in a few hoursAngular is framework by google (difficult to learn)JS programming part happens in client
+react native - variation of react - one code base - android and ios
+Electron desktop apps - allows you connect hardware and file system
+lighthouse is a tool by googel - performance tester
+capybara is for ruby but not good for SPA - single page appsdoes not reload routes, just gets sources with ajax
+react is not a framework, it's a library to build an interface
+react app:
+npx command
+npx create
+react are functions in JS that return HTML
+
+
+
 ## Lecture 8: Coding Challenges (with Juan Carlos)
 
+Program Trace
+Use Python tutor to trace code for you on their website -- helps with debugging and learning.
+
+almost all languages follow the global/local scope concept.
+
+Recursion: method calls itself within teh method.  Makes problem smaller and smaller until it goes away.
+
+Check out crakcing the code interview - bible for coding interviews.  used so much that recruiters no longer ask questions from there.  Check out HackerRank for challenges to do.
 
 
-## Lecture 9: Intro to other coding languages (with )
+[Coding challenges on Zoom](https://us02web.zoom.us/rec/share/_JF2HpLXyllJR9LL-m7kZKohRrn9eaa82yYdqfYKyE1p1QOF6FpoAnNWKegZS-6g?startTime=1594402545000)
+
+
+
+## Lecture 9: Intro to other coding languages (with Omar )
+
+### Notes:
+C/C++ are low level languages.  like Ruby is built on C/C++.  Highly recommend to learn these to learn more about the core of software development fundamentals.
+
+Assembly language is even lower.
+
+Java, C, C++ are not easy to learn but worth the trouble.
+
+You can do android app dev with Java - it's safe and reliable, been around for 20 years.
+
+Python is popular.  It' similar to Ruby, similar to plain English.  Great for backend.
+
+Data science - Python - well paid - has framework Django - follows restful API.
+
+C# is good for app development (Microsoft).
+
+60% of ios is built in objective C; you should know it even if you code in Swift.
+
+Android is built with Kotlin.
+
+React Native vs. swift/kotlin.
+
+Typescript is static language (requires you to declare variable type)...I think it's related to JS.
+
+Javascript is really powerful - you can build an entire app with it...
+frontend, backend, mobile.
+angular, node, mobilaps
+vue
+JS
+
+React is a library; it's not a framework.
+
+Learn react and then react native.
+
+When learning react, learn react classes - components as classes.  class compnents instead of functional components.  learn this well then you will understand lifecycle of a component.   after this, you canlearn more about whos reducts, graph QL.
+
+Omar recommends learning more about front end to understand web development as a whole better.  Learn more front end frameworks.
+
+[Insights on salaries](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states)
+
+Recording saved on my computer.
