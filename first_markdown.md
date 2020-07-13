@@ -6,7 +6,7 @@ My first practice with Markdown will be to put all my notes from Lewagon career 
 
 [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
 
-This is how to do bold *cool*.  This is how to do italics __cool__
+This is how to do bold **cool**.  This is how to do italics _cool_
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque cumque id aperiam alias asperiores ratione, impedit consequatur animi ducimus, mollitia rem! Perspiciatis harum quod neque facere, aliquam itaque inventore ipsa molestias velit aut eveniet ratione accusantium assumenda illo nostrum eaque dicta veniam, quam vitae! Laborum beatae ipsum eligendi, pariatur est iure, quaerat natus quas perferendis ab recusandae cumque omnis, voluptates voluptas expedita magnam nostrum adipisci, libero sit qui rerum esse. Incidunt sit, tempora qui rem, quasi hic officia iusto consequatur dolor possimus voluptas deserunt laborum ea fugit enim. Dolorem quasi nobis quia aspernatur nihil eius temporibus numquam debitis reprehenderit repellendus.
 
@@ -19,6 +19,9 @@ This is how to create a link with text.  [My Github account](https://www.google.
 > I think it is possible for ordinary people to choose to be extraordinary.  Work like hell.  I mean you just have to put in 80-100 hour weeks every week. - **E.M.**
 >
 > Another line here.
+
+> Learning without thought is labor lost; thought without learning is perilous.
+> - **Confucius**
 
 Hello Victor
 > Another quote
