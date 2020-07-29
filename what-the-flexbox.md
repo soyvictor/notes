@@ -35,3 +35,6 @@
 
 ## navbar challenge
 * for something to wrap, it needs to have a width (aka basis).
+
+## mobile reorder challenge
+* order of elements is by default 0. // you need to make them all high so then when you reorder, you can use 1-...
